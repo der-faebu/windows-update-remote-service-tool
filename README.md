@@ -192,6 +192,7 @@ Distributed under the GNU Lesser General Public License. See ``COPYING`` and ``C
 
 This project uses the following libraries:
 
+
 * [log4net](https://logging.apache.org/log4net/), Copyright 2004-2017 The Apache Software Foundation, [Apache License, Version 2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
 * [moq](https://github.com/moq/moq), Copyright (c) 2017 Daniel Cazzulino and Contributors, [MIT License](https://github.com/moq/moq/blob/master/LICENSE)
 * [Feather](https://feathericons.com), Copyright (c) 2013-2017 Cole Bemis, [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE)
